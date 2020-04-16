@@ -1,0 +1,1 @@
+# mongodb-s2i
